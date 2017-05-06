@@ -1,0 +1,4 @@
+github {
+  // see: http://qiita.com/kz800/items/497ec70bff3e555dacd0
+  token = "this is github token"
+}
